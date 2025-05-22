@@ -6,7 +6,7 @@ with grayscale input to reduce visual complexity and improve stability.
 > - [Part 1: Baseline VAE](https://github.com/VanessaTsai0828/vae-glasses-v1-baseline)
 > - [Part 2: Grayscale VAE](https://github.com/VanessaTsai0828/vae-glasses-v2-grayinput)
 > - [Part 3: VAE with VGG Loss](https://github.com/VanessaTsai0828/vae-glasses-v3-vggloss)
-> - [Part 4: Stylized Output VAE](https://github.com/VanessaTsai0828/vae-glasses-v4-stylized)
+> - [Part 4: VAE with GAN](https://github.com/VanessaTsai0828/vae-glasses-v4-gan)
 
 ---
 
@@ -30,6 +30,7 @@ with grayscale input to reduce visual complexity and improve stability.
 
 ## 📸 範例結果 | Sample Result
 ![image](https://github.com/user-attachments/assets/624121ac-b68a-4f67-8778-f496f877fe05)
+![image](https://github.com/user-attachments/assets/ea504da1-3a86-4492-8f4f-78097ec42b6f)
 
 
 ---
